@@ -5,8 +5,6 @@
 #3.  set the value of the inverse
 #4.  get the value of the inverse
 
-## Write a short comment describing this function
-
 makeCacheMatrix <- function(x = matrix()) {
 
 	# inv will store the cached inverse matrix
