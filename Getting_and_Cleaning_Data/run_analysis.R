@@ -1,5 +1,5 @@
 # Load necessary library
-# Use ddply() apply `colMeans()`
+# Use ddply() to apply `colMeans()`
 library(plyr)
 
 # Step 1: Merge the training and test sets to create one data set
